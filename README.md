@@ -1,6 +1,6 @@
 # PCB for soldering wires to Neutrik NLJ2MD-V
 
-![3D View](https://github.com/mjcourte/neutrik-speakon-combo-pcb/NeutrikSpeakon.png)
+![3D View](https://raw.githubusercontent.com/mjcourte/neutrik-speakon-combo-pcb/master/NeutrikSpeakon.png)
 
 - This is an unoffical PCB, use at your own risk.
 - The PDF datasheet was retrieved from Neutrik's website Feb 25 2020. The document belongs to them and is subject to changes on their end. This copy is here for reference only.
